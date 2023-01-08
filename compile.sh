@@ -1,0 +1,1 @@
+tsc -watch fictojs.ts
